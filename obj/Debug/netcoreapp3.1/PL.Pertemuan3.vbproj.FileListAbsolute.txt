@@ -1,0 +1,17 @@
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.vbprojAssemblyReference.cache
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.Form1.resources
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.vbproj.GenerateResource.cache
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.AssemblyInfoInputs.cache
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.AssemblyInfo.vb
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.vbproj.CoreCompileInputs.cache
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\bin\Debug\netcoreapp3.1\PL.Pertemuan3.exe
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\bin\Debug\netcoreapp3.1\PL.Pertemuan3.deps.json
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\bin\Debug\netcoreapp3.1\PL.Pertemuan3.runtimeconfig.json
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\bin\Debug\netcoreapp3.1\PL.Pertemuan3.runtimeconfig.dev.json
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\bin\Debug\netcoreapp3.1\PL.Pertemuan3.dll
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\bin\Debug\netcoreapp3.1\PL.Pertemuan3.pdb
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\bin\Debug\netcoreapp3.1\adodb.dll
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.vbproj.CopyComplete
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.dll
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.pdb
+E:\PROJECT\KULIAH\PROGRAMING LANGUAGE\PL.Pertemuan3\obj\Debug\netcoreapp3.1\PL.Pertemuan3.genruntimeconfig.cache

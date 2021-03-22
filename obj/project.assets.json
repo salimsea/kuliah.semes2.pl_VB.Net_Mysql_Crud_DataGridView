@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ADODB/7.10.3077": {
+        "type": "package",
+        "compile": {
+          "lib/adodb.dll": {}
+        },
+        "runtime": {
+          "lib/adodb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADODB/7.10.3077": {
+      "sha512": "0W53Z55+9fOi+3YBFey+L0Ts2ePdjjK3QnkY7UZWeoZ6miSb7lbH6OJNxtQx0LO+8gEeTJnptbNHLZOzp4B2Bg==",
+      "type": "package",
+      "path": "adodb/7.10.3077",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "adodb.7.10.3077.nupkg.sha512",
+        "adodb.nuspec",
+        "lib/adodb.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ADODB >= 7.10.3077"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SALIMSEA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\PROJECT\\KULIAH\\PROGRAMING LANGUAGE\\PL.Pertemuan3\\PL.Pertemuan3.vbproj",
+      "projectName": "PL.Pertemuan3",
+      "projectPath": "E:\\PROJECT\\KULIAH\\PROGRAMING LANGUAGE\\PL.Pertemuan3\\PL.Pertemuan3.vbproj",
+      "packagesPath": "C:\\Users\\SALIMSEA\\.nuget\\packages\\",
+      "outputPath": "E:\\PROJECT\\KULIAH\\PROGRAMING LANGUAGE\\PL.Pertemuan3\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SALIMSEA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "ADODB": {
+            "target": "Package",
+            "version": "[7.10.3077, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ADODB 7.10.3077' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ADODB",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

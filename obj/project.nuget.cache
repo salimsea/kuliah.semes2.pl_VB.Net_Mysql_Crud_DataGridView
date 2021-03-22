@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "jne06gntqcFh4qMdybeQgnQ6Ok+BPta1EhRk3AB9d3yO8nCIF9Ma1jXM3ACwwUVIQRmidsQJP9KEScNA0xgnhA==",
+  "success": true,
+  "projectFilePath": "E:\\PROJECT\\KULIAH\\PROGRAMING LANGUAGE\\PL.Pertemuan3\\PL.Pertemuan3.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SALIMSEA\\.nuget\\packages\\adodb\\7.10.3077\\adodb.7.10.3077.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ADODB 7.10.3077' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ADODB",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
